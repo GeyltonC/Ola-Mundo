@@ -19,7 +19,7 @@ Obs:
    * Muita coisa meeesmo
  
 objetivos:
-- [ ] aprender python
+- [x] aprender python
 - [ ] aprender java
 - [ ] aprender html
 - [ ] aprender css
