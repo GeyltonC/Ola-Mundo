@@ -32,3 +32,27 @@ objetivos:
 **Realmete a imagem menor funciona**
 
 [Acesse o meu GuitHub](https://github.com/GeyltonC)
+
+## tabela
+
+ID | LINGUAGEM | STATUS
+---|---|---
+1 | JAVA | PARADO
+2 | PYTHON | OK
+3 | SQL | OK
+
+
+## Comando
+
+Eu não entendo o comando 'docuemnto.getElementByld' da linguagem SQL
+
+comando em python 🐍
+
+```
+numero = int(input('Digite um número: '))
+if numero % 2 == 0:
+    print('é par')
+else:
+    print('é impar')
+```
+
